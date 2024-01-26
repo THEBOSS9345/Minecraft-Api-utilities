@@ -1,2 +1,9 @@
 # Minecraft-Api-utilities
-This is for minecraft bedrock api this is utilities for devs
+
+run this 
+
+```js
+npm i
+
+node ./index.js
+```
