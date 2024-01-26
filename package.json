@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-utilities",
+  "description": "minecraft utilities",
+  "version": "1.0.2",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "THE BOSS9345",
+  "license": "MIT",
+  "dependencies": {
+    "@minecraft/server-ui": "^1.2.0-beta.1.20.50-stable",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.3",
+    "uuid": "^9.0.1"
+  }
+}
